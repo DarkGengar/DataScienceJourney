@@ -18,7 +18,21 @@ and build a better understanding for Machine Learning models.
 **Topics:** \
 Twitter Web Scraping for Sentimental Analysis
 
+**Progress:** \
+I learned how to create a Twitter application and search for data with Twitter's API.
+
 **Links:** \
-[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/)
+[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/) \
+[Pandas DataFrame](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96) \
+[Pandas Series](https://towardsdatascience.com/pandas-series-a-lightweight-intro-b7963a0d62a2)
 
 ### Working Day 1: April 10, 2019
+
+**Topics:** \
+SQL + MySQL
+
+**Links:** \
+[Data Lit 1.2](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
+[How to install MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04) \
+[Basics of MySql](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial) \
+[Basics of Sql](https://www.w3schools.com/sql/default.asp)
