@@ -21,6 +21,9 @@ Twitter Web Scraping for Sentimental Analysis
 **Progress:** \
 I learned how to create a Twitter application and search for data with Twitter's API.
 
+**Projects:** \
+Sentimental_Analysis.ipynb
+
 **Links:** \
 [Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/) \
 [Pandas DataFrame](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96) \
