@@ -13,7 +13,7 @@ and build a better understanding for Machine Learning models.
 
 ## Chapter 1 Data Lit
 
-## Working Day 0: April 9, 2019
+### Working Day 0: April 9, 2019
 
 **Topics:** \
 Twitter Web Scraping for Sentimental Analysis
@@ -21,4 +21,4 @@ Twitter Web Scraping for Sentimental Analysis
 **Links:** \
 [Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/)
 
-## Working Day 1: April 10, 2019
+### Working Day 1: April 10, 2019
