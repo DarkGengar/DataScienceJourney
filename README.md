@@ -34,5 +34,5 @@ SQL + MySQL
 **Links:** \
 [Data Lit 1.2](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
 [How to install MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04) \
-[Basics of MySql](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial) \
-[Basics of Sql](https://www.w3schools.com/sql/default.asp)
+[Basics of MySQL](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial) \
+[Basics of SQL](https://www.w3schools.com/sql/default.asp)
