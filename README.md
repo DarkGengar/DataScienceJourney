@@ -29,7 +29,7 @@ Twitter's API.
 Sentimental_Analysis.ipynb
 
 **Links:** \
-[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/) \
+[Data Lit 1.2](https://www.theschool.ai/courses/data-lit/lessons/twitter-web-scraping-for-lexicon-based-sentiment-analysis/) \
 [Pandas DataFrame](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96) \
 [Pandas Series](https://towardsdatascience.com/pandas-series-a-lightweight-intro-b7963a0d62a2)
 
@@ -42,7 +42,7 @@ SQL + MySQL
 Today I have set up the MySQL environment and learn the basics of SQL.
 
 **Links:** \
-[Data Lit 1.2](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
+[Data Lit 1.3](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
 [How to install MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04) \
 [Basics of MySQL](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial) \
 [Basics of SQL](https://www.w3schools.com/sql/default.asp)
@@ -60,10 +60,42 @@ project. I have worked on a simple Pokémon database but it is nothing special.
 PkmDatabase.sql
 
 **Links:** \
-[Data Lit 1.2](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
+[Data Lit 1.3](https://www.theschool.ai/courses/data-lit/lessons/sql-techniques-for-hospital-database-management/) \
 [Basics of SQL](https://www.w3schools.com/sql/default.asp) \
 [Basics of SQL 2](http://www.mysqltutorial.org/basic-mysql-tutorial.aspx) \
 [ERROR 1698 (28000)](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost) \
 [How can I run .SQL file in Ubuntu?](https://www.quora.com/How-can-I-run-SQL-file-in-Ubuntu) \
 [Execute SQL Statement from a Text File](https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html) \
 [Documentation of MySQL](https://dev.mysql.com/doc/)
+
+### Working Day 3: April 13, 2019
+
+**Topics:** \
+Text Data Cleaning
+
+**Progress:** \
+I have learned some text data cleaning methods like Lemmatization and Stemming
+and the NLTK library which is a good library for text data preprocessing.
+
+**Projects:** \
+Clean_Txt_Data.ipynb
+
+**Links:** \
+[Data Lit 1.4](https://www.theschool.ai/courses/data-lit/lessons/cleaning-text-data/)
+
+### Working Day 4: April 14, 2019
+
+**Topics:** \
+Regular Expressions
+
+**Progress:** \
+Today I have learned about Regular Expression and after some difficulties
+I have understand this topic. It was essential for me to do some practices 
+with them. A very good tool for this was the website: 'https://regex101.com/'.
+
+**Projects:** \
+Regex.ipynb
+
+**Links:** \
+[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/python-regular-expressions-2/)
+[Regex Online Tool](https://regex101.com/)
