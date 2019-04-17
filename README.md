@@ -12,9 +12,30 @@ I want to learn more about the techniques of Data Science like create datasets
 and analyze the data to strengthen my skills and build a better understanding 
 for Machine Learning models.
 
+# Curriculum
+
+## Table of Content
+### Chapter 1 Basic Techniques of Data Science
+Data Cleaning,
+Data Preprocessing,
+Data Visualization
+### Chapter 2 Basics of Machine Learning
+Mathematical Foundations of ML,
+Supervised Learning,
+Unsupervised Learning,
+Reinforcement Learning,
+Deep Learning
+### Chapter 3 Quantum Computing
+Mathematical Foundations of Quantum Computing + Physics
+Basics of Classical Physics,
+Basics of Quantum Mechanics,
+Basics of Quantum Computing
+### Chapter 4 Advanced Topics of ML
+Quantum Machine Learing
+
 # Data Science Journey Log
 
-## Chapter 1 Data Lit
+## Chapter 1 Basic Techniques of Data Science
 
 ### Working Day 0: April 9, 2019
 
@@ -52,6 +73,13 @@ Today I have set up the MySQL environment and learn the basics of SQL.
 **Topics:** \
 SQL
 
+**Keywords:** \
+Databases,
+Tables,
+Records,
+Result-Sets,
+Queries
+
 **Progress:** \
 I have continued to learn about the basics of SQL and start a little learn
 project. I have worked on a simple Pokémon database but it is nothing special.
@@ -73,6 +101,17 @@ PkmDatabase.sql
 **Topics:** \
 Text Data Cleaning
 
+**Keywords:** \
+Capitalization
+Tokenization,
+Lemmatization,
+Stemming,
+Filtering of Punctuation,
+Stopwords
+
+**Python Libraries** \
+NLTK
+
 **Progress:** \
 I have learned some text data cleaning methods like Lemmatization and Stemming
 and the NLTK library which is a good library for text data preprocessing.
@@ -88,6 +127,16 @@ Clean_Txt_Data.ipynb
 **Topics:** \
 Regular Expressions
 
+**Keywords:** \
+Special Characters,
+Meta Characters,
+Character Set,
+Matches,
+
+**Python Libraries** \
+re,
+regex
+
 **Progress:** \
 Today I have learned about Regular Expression and after some difficulties
 I have understand this topic. It was essential for me to do some practices 
@@ -97,5 +146,12 @@ with them. A very good tool for this was the website: 'https://regex101.com/'.
 Regex.ipynb
 
 **Links:** \
-[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/python-regular-expressions-2/)
+[Data Lit 1.1](https://www.theschool.ai/courses/data-lit/lessons/python-regular-expressions-2/) \
+[Regex Wikipedia](https://en.wikipedia.org/wiki/Regular_expression) \
 [Regex Online Tool](https://regex101.com/)
+
+### Working Day 5 - 8 April 15 - 18 2019
+
+**Python Libraries:** \
+NLTK,
+TextBlob
